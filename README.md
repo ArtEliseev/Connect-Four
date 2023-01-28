@@ -1,14 +1,18 @@
 # Connect-Four
 My ninth project in JetBrains Academy
 
-Description
+
+Description:
+
 Before this stage, two players can play only one game. We are going to change this. In this stage, implement the option to play multiple games.
 
 After setting the board dimensions, ask the players if they would like to play a single or multiple games. In the latter case, keep and print the score. When a player wins a game, they get 2 points. If it's a draw, give 1 point to each player.
 
 If the players have chosen the multiple game option, alternate the first move for each new game. However, each player retains the same disc symbol (see Example 3).
 
-Objectives
+
+Objectives:
+
 After setting the board dimensions, players see the following:
 
 Do you want to play single or multiple games?
